@@ -39,9 +39,9 @@ Hi, I'm Rama Krishna, a third-year B.Tech student interested in AI, machine lear
 - Responsive Web Design
 - Problem Solving
 
-## Featured Project
+## Featured Projects
 
-### [Jarvis AI Chatbot — Academic Team Project](./projects/jarvis-ai-chatbot/)
+### 1. [Jarvis AI Chatbot — Academic Team Project](./projects/jarvis-ai-chatbot/)
 
 A web-based chatbot developed as part of a B.Tech team project. It uses Google's Gemini AI with a FastAPI backend and an HTML, CSS, and JavaScript frontend.
 
@@ -57,11 +57,17 @@ A web-based chatbot developed as part of a B.Tech team project. It uses Google's
 
 **Project context:** Team project completed during the 2025–2026 academic year at Pallavi Engineering College. The project folder includes documentation and code snippets transcribed from the report. Some report snippets are incomplete; see the project documentation for details.
 
+### 2. [CampusPulse — Campus Canteen Demand Forecaster](./projects/campuspulse/)
+
+A machine-learning project concept focused on estimating daily meal demand using calendar, weather, exam-period, and campus-event signals.
+
+**Tech:** Python, pandas, scikit-learn, Random Forest
+
 ## What You'll Find Here
 
-- My academic project work
+- My academic and practice projects
 - Project documentation
-- Programming practice
+- Programming exercises
 - Notes on topics I'm learning
 
 ## Connect
