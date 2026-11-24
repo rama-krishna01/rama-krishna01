@@ -53,6 +53,12 @@ def main() -> None:
     print("CampusPulse model evaluation (held-out synthetic data)")
     print(f"MAE: {mean_absolute_error(y_test, predictions):.1f} meals")
     print(f"R²:  {r2_score(y_test, predictions):.3f}")
+    names = model.named_steps["features"].get_feature_names_out()
+    importances = model.named_steps["model"].feature_importances_
+    top = sorted(zip(names, importances), key=lambda item: item[1], reverse=True)[:6]
+    print("\\nTop demand drivers (feature importance):")
+    for name, score in top:
+        print(f"  {name}: {score:.3f}")
 
     if args.predict_date:
         date = pd.Timestamp(args.predict_date)
