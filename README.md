@@ -46,7 +46,7 @@ I am an undergraduate student focused on building a strong foundation in program
 
 ## Featured Projects
 
-### 1. Jarvis AI Chatbot — Academic Team Project
+### 1. [Jarvis AI Chatbot — Academic Team Project](./projects/jarvis-ai-chatbot/)
 
 A web-based conversational AI assistant developed as a B.Tech CSE (AI & ML) project. It integrates Google's Gemini AI model with a FastAPI backend and a responsive HTML, CSS, and JavaScript frontend to provide context-aware responses.
 
@@ -61,7 +61,7 @@ A web-based conversational AI assistant developed as a B.Tech CSE (AI & ML) proj
 
 **Tech:** Python, FastAPI, Uvicorn, HTML5, CSS3, JavaScript, Google GenAI SDK, Gemini AI, LocalStorage
 
-**Project Context:** Developed in a team for the 2025–2026 academic year at Pallavi Engineering College.
+**Project Context:** Developed in a team for the 2025–2026 academic year at Pallavi Engineering College. [View project documentation and report-based code snippets](./projects/jarvis-ai-chatbot/).
 
 ### 2. [CampusPulse — Campus Canteen Demand Forecaster](./projects/campuspulse/)
 
