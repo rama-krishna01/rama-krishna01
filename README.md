@@ -69,12 +69,6 @@ A machine-learning project that estimates daily meal demand using calendar, weat
 
 **Tech:** Python, pandas, scikit-learn, Random Forest
 
-### 3. [RoleReady — Explainable Skill-Gap Analyzer](./projects/roleready/)
-
-A lightweight text analysis tool that extracts skills from a job description, compares them with a student's current skills and prioritises learning gaps with transparent evidence counts.
-
-**Tech:** Python, text processing, keyword extraction
-
 ## What You'll Find Here
 
 - Academic and practice projects
