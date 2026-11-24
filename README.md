@@ -1,17 +1,15 @@
 # Rama Krishna
 
-**Third-Year B.Tech Student | Artificial Intelligence & Machine Learning**
+**Third-Year B.Tech Student | CSE (Artificial Intelligence & Machine Learning)**
 
-I am an undergraduate student focused on building a strong foundation in programming, software development, and Artificial Intelligence. I use GitHub to document my work, develop practical projects, and demonstrate what I learn through implementation.
-
----
+Hi, I'm Rama Krishna, a third-year B.Tech student interested in AI, machine learning, and software development. I use GitHub to share my academic projects, practise coding, and keep track of what I learn.
 
 ## About Me
 
-- Pursuing B.Tech in **Computer Science and Engineering (AI & ML)**
-- Interested in **Artificial Intelligence, Machine Learning, and software development**
-- Practising programming and core computer science concepts
-- Focused on building practical applications and improving through hands-on development
+- Studying Computer Science and Engineering (AI & ML) at Pallavi Engineering College
+- Interested in learning how AI and machine learning are used in practical applications
+- Working on improving my Python and programming fundamentals
+- Building projects as part of my coursework and independent learning
 
 ## Skills & Technologies
 
@@ -45,38 +43,37 @@ I am an undergraduate student focused on building a strong foundation in program
 
 ### 1. [Jarvis AI Chatbot — Academic Team Project](./projects/jarvis-ai-chatbot/)
 
-A web-based conversational AI assistant developed as a B.Tech CSE (AI & ML) project. It integrates Google's Gemini AI model with a FastAPI backend and a responsive HTML, CSS, and JavaScript frontend to provide context-aware responses.
+A web-based chatbot built as part of a B.Tech team project. It uses Google's Gemini AI with a FastAPI backend and an HTML, CSS, and JavaScript frontend.
 
-**Key Features**
+**Features described in the project**
 - Gemini AI integration for conversational responses
-- FastAPI backend for handling requests between the frontend and AI service
-- Multiple chat sessions with create, switch, and delete functionality
-- Browser LocalStorage for locally retaining conversation history
-- Markdown rendering and readable code formatting
-- Error handling and retry mechanisms for temporary API or network failures
-- Modular frontend, backend, AI integration, and session-management design
+- FastAPI backend for frontend requests
+- Multiple chat sessions
+- Browser LocalStorage for retaining chat history
+- Markdown rendering
+- Error handling and retry mechanisms
 
 **Tech:** Python, FastAPI, Uvicorn, HTML5, CSS3, JavaScript, Google GenAI SDK, Gemini AI, LocalStorage
 
-**Project Context:** Developed in a team for the 2025–2026 academic year at Pallavi Engineering College. [View project documentation and report-based code snippets](./projects/jarvis-ai-chatbot/).
+**Project context:** Team project completed during the 2025–2026 academic year at Pallavi Engineering College. The project folder includes documentation and code snippets transcribed from the report. Some report snippets are incomplete; see the project documentation for details.
 
 ### 2. [CampusPulse — Campus Canteen Demand Forecaster](./projects/campuspulse/)
 
-A machine-learning project that estimates daily meal demand using calendar, weather, exam-period and campus-event signals. Includes a reproducible sample dataset, model evaluation, feature-importance output and command-line predictions.
+A machine-learning project that estimates daily meal demand using calendar, weather, exam-period, and campus-event signals. It includes a sample dataset, model evaluation, feature-importance output, and command-line predictions.
 
 **Tech:** Python, pandas, scikit-learn, Random Forest
 
 ## What You'll Find Here
 
-- Academic and practice projects
+- College and practice projects
 - Programming exercises
-- AI/ML experiments and implementations
-- Notes from my learning journey
+- AI/ML experiments
+- Things I'm learning and trying out
 
-## Connect With Me
+## Connect
 
 - **GitHub:** [@rama-krishna01](https://github.com/rama-krishna01)
 
 ---
 
-*Learning consistently. Building thoughtfully. Improving every day.*
+I'm still learning, and I'll keep adding projects as I build and improve them.
