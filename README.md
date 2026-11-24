@@ -15,7 +15,7 @@ I am an undergraduate student focused on building a strong foundation in program
 
 ## Skills & Technologies
 
-**Programming**
+**Programming Languages**
 - Python
 - C
 - JavaScript
@@ -24,25 +24,22 @@ I am an undergraduate student focused on building a strong foundation in program
 - HTML5
 - CSS3
 - FastAPI
-- Uvicorn
+- REST APIs
 
-**AI & Data**
-- Google Gemini AI
-- Google GenAI SDK
-- Machine Learning fundamentals
-- Data Science fundamentals
+**AI & Machine Learning**
+- Machine Learning Fundamentals
+- Data Science Fundamentals
+- Google Gemini API
 
 **Tools & Platforms**
 - Git
 - GitHub
 - Visual Studio Code
-- Flutter
 
-**Concepts**
-- REST API integration
-- Browser LocalStorage
-- Responsive web design
-- Problem solving
+**Additional**
+- Flutter
+- Responsive Web Design
+- Problem Solving
 
 ## Featured Projects
 
